@@ -5,9 +5,9 @@ C programming
 
 <!-- # Type, 데이터 출력 -->
 
-# ✨ C언어의 특징
+# ❄️ C언어의 특징
 
-# ✨ 제어문자
+# ❄️ 제어문자
 
 `\n` : new line. 다음줄 이동.  
 `\b` : backspace. 한 칸 왼쪽으로 이동.  
@@ -16,7 +16,7 @@ C programming
 `\a` : 소리발생.
 
 
-# ✨ Type
+# ❄️ Type
 
 C언어 에서는 정수, 실수, 문자, 문자열이 있다.
 
