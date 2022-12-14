@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> // stdio : standard input output
 
 int main(void)
 {
